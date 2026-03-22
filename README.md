@@ -1,1 +1,37 @@
-# Gym_Website_Project
+<div align="center">
+  <br />
+  <br />
+
+  <h2 align="center">Fitlife - Fitness Website</h2>
+
+  Fitlife is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href="http://127.0.0.1:5500/Index.html"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+<img width="1917" height="927" alt="Desktop-Demo" src="https://github.com/user-attachments/assets/eed58c80-fc09-4f8c-a21c-21dcbfc90476" />
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **Fitlife** locally, run this command on your git bash:
+
+Linux and macOS:
+
+### Contact
+
+If you want to contact with me you can reach me at.......
+
+### License
+
+This project is **free to use** and does not contains any license.
